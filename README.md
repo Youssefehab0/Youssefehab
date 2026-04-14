@@ -73,7 +73,7 @@ Applying Data Structures & Algorithms to real problems
 🛒 **E-commerce System**  
 > Mobile app (Flutter) + Backend API  
 
-🏠 **Gehazy Platform**  
+🏠 <a href = "">**Gehazy Platform**  </a>
 > Platform for managing complaints and services  
 
 📊 **Activity Tracker for Kids**  
