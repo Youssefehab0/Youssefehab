@@ -1,89 +1,97 @@
-Hi, I'm Youssef Ehab Hassan
-<p align="center"> <b>Software Engineering Student • Full-Stack Developer • ASP.NET • Flutter</b><br/> </p> <p align="center"> <a href="mailto:youssef.0523029@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/youssef-ahab-805bb8323/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Youssefehab0"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> </a> </p>
-💡 About Me
+<h1 align="center">👋 Hi, I'm Youssef Ehab Hassan</h1>
 
-I’m a Software Engineering student passionate about building scalable and practical applications.
+<p align="center">
+  <b>Software Engineering Student • Full-Stack Developer • ASP.NET • Flutter</b>
+</p>
 
-💻 I specialize in ASP.NET (MVC & Web API) and Flutter, with experience in building web, mobile, and desktop applications.
+---
 
-🚀 I focus on writing clean code, solving real problems, and continuously improving my skills to become a strong Full-Stack Developer.
+## 💡 About Me  
 
-🛠 Tech Stack
-👨‍💻 Languages
+I'm a **Software Engineering student and Web Developer** with a strong focus on  
+**ASP.NET and Flutter**, building real-world applications.
 
+🎓 Studying at Elsewedy International School of Applied Technology  
+💻 Passionate about backend development, APIs, and scalable systems  
 
+I enjoy turning ideas into real applications and continuously improving my skills.
 
+---
 
+## 💼 What I Do  
 
+📱 **Flutter Development**  
+Building mobile apps with clean UI and smooth user experience  
 
-🌐 Web Development
+🌐 **ASP.NET Development**  
+Developing web applications and RESTful APIs  
 
+🗄 **Database Management**  
+Working with SQL Server and handling data efficiently  
 
+🧠 **Problem Solving**  
+Applying Data Structures & Algorithms to real problems  
 
+---
 
+## 🛠 Skills & Technologies  
 
+### 🖥 Programming & Development  
 
+| Area | Stack |
+|-----|------|
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/CSharp-239120?style=flat&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) |
+| **Web** | ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![MVC](https://img.shields.io/badge/MVC-512BD4?style=flat) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) |
+| **Database** | ![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 
+---
 
-📱 Mobile Development
+## ✨ Highlights  
 
-🗄 Database
+- 🚀 Built multiple real-world applications  
+- 🧠 Strong problem-solving mindset  
+- ⚡ Fast learner and adaptable  
+- 🤝 Team player  
 
-⚙️ Tools & Concepts
+---
 
+## 🎯 Currently Learning  
 
+- 🚀 Advanced ASP.NET Web API  
+- 🧱 Clean Architecture  
+- 📱 Improving Flutter UI & Performance  
 
+---
 
-Data Structures & Algorithms
-RESTful APIs
-Problem Solving
-✨ Highlights
-🧠 Strong problem-solving mindset
-⚡ Fast learner
-🤝 Team player
-🔥 Passionate about building real-world applications
-🚀 Featured Projects
-🧠 Quiz System (Full-Stack)
+## 🌟 Featured Projects  
 
-Full-stack quiz management system
+🚀 **Quiz System**  
+> Full-stack quiz management system using ASP.NET  
 
-Built RESTful APIs using ASP.NET Web API
-Designed interactive UI for quizzes
-Implemented scoring and result tracking
-🛒 E-commerce System
-📱 Mobile App (Flutter)
-Browse products
-Add to cart & manage orders
-🔗 Web API (ASP.NET)
-Manage products, users, categories
-Full CRUD operations
-🏠 Gehazy Platform
+🛒 **E-commerce System**  
+> Mobile app (Flutter) + Backend API  
 
-Platform connecting citizens with housing authorities
+🏠 **Gehazy Platform**  
+> Platform for managing complaints and services  
 
-Complaint submission & tracking
-Service and announcement system
-📊 Activity Tracker for Kids
+📊 **Activity Tracker for Kids**  
+> Encourages kids to stay active  
 
-Encourages kids to stay active
+📦 **Inventory Management System**  
+> Desktop app for stock management  
 
-Activity tracking
-Interactive UI for kids & parents
-📦 Inventory Management System
+---
 
-Desktop app for warehouse management
+## 📫 Contact Me  
 
-Track stock levels
-Manage inventory movement
-🌱 Currently Learning
-Clean Architecture
-Advanced ASP.NET Web API
-Improving Flutter UI & Performance
-📫 Contact Me
-
-📧 Email: youssef.0523029@gmail.com
-
-📱 Phone: 01014790475
-
-💼 LinkedIn: https://www.linkedin.com/in/youssef-ahab-805bb8323/
-💻 GitHub: https://github.com/Youssefehab0
+<p align="left">
+  <a href="mailto:youssef.0523029@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/youssef-ahab-805bb8323/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
