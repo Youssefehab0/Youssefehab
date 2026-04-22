@@ -70,7 +70,7 @@ Applying Data Structures & Algorithms to real problems
 🚀 **Quiz System**  
 > Full-stack quiz management system using ASP.NET  
 
-🛒 **E-commerce System**  
+🛒 <a href = "https://github.com/Youssefehab0/E-commerce-Mobile-Application.git">**E-commerce System**  
 > Mobile app (Flutter) + Backend API  
 
 🏠 <a href = "">**Gehazy Platform**  </a>
@@ -79,7 +79,7 @@ Applying Data Structures & Algorithms to real problems
 📊 **Activity Tracker for Kids**  
 > Encourages kids to stay active  
 
-📦 **Inventory Management System**  
+📦 <a href = "https://github.com/Youssefehab0/Inventory-Management-System.git">**Inventory Management System**  <\a>
 > Desktop app for stock management  
 
 ---
