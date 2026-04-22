@@ -79,7 +79,7 @@ Applying Data Structures & Algorithms to real problems
 📊 **Activity Tracker for Kids**  
 > Encourages kids to stay active  
 
-📦 <a href = "https://github.com/Youssefehab0/Inventory-Management-System.git">**Inventory Management System**  <\a>
+📦 <a href = "https://github.com/Youssefehab0/Inventory-Management-System.git">**Inventory Management System**
 > Desktop app for stock management  
 
 ---
