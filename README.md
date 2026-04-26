@@ -48,6 +48,9 @@ Applying Data Structures & Algorithms to real problems
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Youssefehab0&show_icons=true&locale=en&layout=compact" alt="Youssefehab0" /></p>
+
+
 ## ✨ Highlights  
 
 - 🚀 Built multiple real-world applications  
@@ -98,7 +101,6 @@ Applying Data Structures & Algorithms to real problems
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Youssefehab0&show_icons=true&locale=en&layout=compact" alt="Youssefehab0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Youssefehab0&show_icons=true&locale=en" alt="Youssefehab0" /></p>
 
