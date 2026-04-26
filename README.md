@@ -1,107 +1,146 @@
 <h1 align="center">👋 Hi, I'm Youssef Ehab Hassan</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer;ASP.NET+Developer;Flutter+Developer;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
   <b>Software Engineering Student • Full-Stack Developer • ASP.NET • Flutter</b>
 </p>
 
----
-
-## 💡 About Me  
-
-I'm a **Software Engineering student and Web Developer** with a strong focus on  
-**ASP.NET and Flutter**, building real-world applications.
-
-🎓 Studying at Elsewedy International School of Applied Technology  
-💻 Passionate about backend development, APIs, and scalable systems  
-
-I enjoy turning ideas into real applications and continuously improving my skills.
-
----
-
-## 💼 What I Do  
-
-📱 **Flutter Development**  
-Building mobile apps with clean UI and smooth user experience  
-
-🌐 **ASP.NET Development**  
-Developing web applications and RESTful APIs  
-
-🗄 **Database Management**  
-Working with SQL Server and handling data efficiently  
-
-🧠 **Problem Solving**  
-Applying Data Structures & Algorithms to real problems  
-
----
-
-## 🛠 Skills & Technologies  
-
-### 🖥 Programming & Development  
-
-| Area | Stack |
-|-----|------|
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/CSharp-239120?style=flat&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) |
-| **Web** | ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![MVC](https://img.shields.io/badge/MVC-512BD4?style=flat) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) |
-| **Database** | ![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Youssefehab0&show_icons=true&locale=en&layout=compact" alt="Youssefehab0" /></p>
----
-
-
-
-## ✨ Highlights  
-
-- 🚀 Built multiple real-world applications  
-- 🧠 Strong problem-solving mindset  
-- ⚡ Fast learner and adaptable  
-- 🤝 Team player  
-
----
-
-## 🎯 Currently Learning  
-
-- 🚀 Advanced ASP.NET Web API  
-- 🧱 Clean Architecture  
-- 📱 Improving Flutter UI & Performance  
-
----
-
-## 🌟 Featured Projects  
-
-🚀 **Quiz System**  
-> Full-stack quiz management system using ASP.NET  
-
-🛒 <a href = "https://github.com/Youssefehab0/E-commerce-Mobile-Application.git">**E-commerce System**  
-> Mobile app (Flutter) + Backend API  
-
-🏠 <a href = "">**Gehazy Platform**  </a>
-> Platform for managing complaints and services  
-
-📊 **Activity Tracker for Kids**  
-> Encourages kids to stay active  
-
-📦 <a href = "https://github.com/Youssefehab0/Inventory-Management-System.git">**Inventory Management System**
-> Desktop app for stock management  
-
----
-
-## 📫 Contact Me  
-
-<p align="left">
-  <a href="mailto:youssef.0523029@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/youssef-ahab-805bb8323/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Youssefehab0&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+---
 
+## 💡 About Me
 
+I'm a **Software Engineering student and Full-Stack Developer** with a strong passion for building real-world applications using modern technologies.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Youssefehab0&show_icons=true&locale=en" alt="Youssefehab0" /></p>
+🎓 Studying at **Elsewedy International School of Applied Technology**
+💻 Specialized in **ASP.NET Core, Web API, Flutter, and SQL Server**
+🚀 Focused on creating scalable systems and clean user experiences
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Youssefehab0&" alt="Youssefehab0" /></p>
+I enjoy turning ideas into real software products and continuously improving my skills every day.
+
+---
+
+## 💼 What I Do
+
+📱 **Flutter Development**
+Building mobile applications with responsive UI and smooth user experience.
+
+🌐 **ASP.NET Development**
+Creating web applications, dashboards, and RESTful APIs.
+
+🗄 **Database Management**
+Designing databases and managing data efficiently using SQL Server.
+
+🧠 **Problem Solving**
+Applying Data Structures & Algorithms to solve real-world problems.
+
+🤝 **Team Collaboration**
+Working effectively in teams and adapting quickly to new environments.
+
+---
+
+## 🛠 Skills & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,dart,flutter,html,css,js,git,github,mysql,vscode,visualstudio" />
+
+<br><br>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssefehab0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## ✨ Highlights
+
+* 🚀 Built multiple real-world projects
+* 🧠 Strong logical thinking and problem-solving skills
+* ⚡ Fast learner and highly adaptable
+* 🤝 Excellent teamwork mindset
+* 📈 Always improving and learning new technologies
+
+---
+
+## 🎯 Currently Learning
+
+* 🚀 Advanced ASP.NET Core Web API
+* 🧱 Clean Architecture
+* 📱 Flutter Performance Optimization
+* ☁ Deployment & Hosting
+* 🔐 Authentication & Security Best Practices
+
+---
+
+## 🌟 Featured Projects
+
+### 🚀 Quiz System
+
+Full-stack quiz management system using **ASP.NET Core** with authentication and role management.
+
+### 🛒 E-commerce Mobile Application
+
+🔗 https://github.com/Youssefehab0/E-commerce-Mobile-Application
+
+Mobile application using **Flutter** connected with backend APIs.
+
+### 🏠 Gehazy Platform
+
+Complaint and services management platform with modern admin dashboard.
+
+### 📊 Activity Tracker for Kids
+
+Application that encourages children to stay active through engaging tasks.
+
+### 📦 Inventory Management System
+
+🔗 https://github.com/Youssefehab0/Inventory-Management-System
+
+Desktop system for stock tracking, product management, and reporting.
+
+---
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Youssefehab0&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Youssefehab0&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+
+<a href="mailto:youssef.0523029@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/youssef-ahab-805bb8323/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Youssefehab0">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Code • Learn • Build • Repeat
+
+</div>
